@@ -8,8 +8,8 @@ correct path from S to E. The program finds such a pathway. Once the
 program finds the correct path, the correct path will replace the
 correct Os with dashes (-).
 
-  8
-  7
+  8\n
+  7\n
   SOXXXXXX 
   X0XX0XXX 
   X000000X 
