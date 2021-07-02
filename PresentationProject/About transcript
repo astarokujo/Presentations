@@ -1,0 +1,11 @@
+About transcript: 
+My transcript java file basically reads the text file named input. Each line in the input file contains: student name, course code, course credit, student number, [P|E] (P stands for practical, which is associated to any 
+types of assessment such as lab activity, exercises, homework, worksheets, etc. E stands for exam), as well as the grade and weight of each assessment each student took. 
+The program then extracts the information from that file and then creates a new output file which will be a transcript.
+The transcript shall list the overall GPA of each student, as well as the final grades of each course the corresponding student took.
+It is possible that the total weight of the assessment in a row of the file does
+not add up to 100. It is also possible that the total grade of a student is more than 100. These two cases are
+wrong and therefore, an exception called InvalidTotalException was created by me to handle both flawed situations. 
+The wronginput file is used to change the information of the students to your discretion to test out the exception.
+
+
