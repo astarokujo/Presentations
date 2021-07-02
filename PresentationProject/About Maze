@@ -2,19 +2,19 @@ For the maze file: Solving a Maze. The program will read in a text file which ha
 
 8 <br> 
 7 <br> 
-SOXXXXXX <br> 
-X0XX0XXX <br> 
-X000000X <br> 
-X0X0XXOX <br> 
-X0X0XXOX <br> 
-XXXOXXOX <br> 
-XXXOOXOE <br> 
+SOXXXXXX 
+X0XX0XXX
+X000000X  
+X0X0XXOX
+X0X0XXOX  
+XXXOXXOX  
+XXXOOXOE  
 For the above input the following should be the output on the screen when the program finishes:
 
-S-XXXXXX<br> 
-X-XXOXXX <br> 
-X- - - - --X <br> 
-X0X0XX-X<br> 
-X0X0XX-X<br> 
-XXXOXX-X<br> 
-XXXOOX-E<br> 
+S-XXXXXX 
+X-XXOXXX  
+X- - - - --X  
+X0X0XX-X 
+X0X0XX-X 
+XXXOXX-X 
+XXXOOX-E
