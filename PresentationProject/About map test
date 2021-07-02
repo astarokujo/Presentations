@@ -1,0 +1,3 @@
+Map test is a file associated to the map program. It is a JUnit tester that tests out various situations of the map program so that you or any one else that uses
+the program would not need to test the program using the main method manually as that can be both inefficient and time consuming.
+Kindly use the maptest file to test the map code out for each of the five tasks specified in the about map file.
