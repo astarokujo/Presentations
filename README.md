@@ -1,3 +1,4 @@
+For the maze file:
 Solving a Maze. The program will read in a text file which has 2 numbers on 
 the first two lines. The first number is the number of columns and the 
 second number is the number of rows in the maze. The numbers will be 
